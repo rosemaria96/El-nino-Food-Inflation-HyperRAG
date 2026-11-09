@@ -1,4 +1,4 @@
-\Modelling the Economic Impact of El Niño on Food Inflation in India
+Modelling the Economic Impact of El Niño on Food Inflation in India
 
 
 
@@ -16,7 +16,7 @@ This project asks whether El Niño conditions (measured by the Oceanic Niño Ind
 
 
 
-\ Key Findings
+Key Findings
 
 
 
@@ -32,7 +32,7 @@ This project asks whether El Niño conditions (measured by the Oceanic Niño Ind
 
 
 
-\ Data
+Data
 
 
 
@@ -146,23 +146,23 @@ Repository Structure
 
 
 
-\## Requirements
+Requirements
 
 
 
-\*\*R (4.x):\*\* `readxl`, `ggplot2`, `corrplot`, `tidyverse`, `tseries`, `car`, `lmtest`, `sandwich`, `Metrics`
+R (4.x): `readxl`, `ggplot2`, `corrplot`, `tidyverse`, `tseries`, `car`, `lmtest`, `sandwich`, `Metrics`
 
 
 
-\*\*Python:\*\* sentence-embedding model, FAISS, an LLM API for answer generation `\[list exact packages from your requirements file]`
+Python:sentence-embedding model, FAISS, an LLM API for answer generation `\[list exact packages from your requirements file]`
 
 
 
-\## How to Run
+\How to Run
 
 
 
-\*\*Econometric analysis\*\*
+Econometric analysis
 
 
 
@@ -172,7 +172,7 @@ Repository Structure
 
 
 
-\*\*HyperRAG pipeline\*\*
+HyperRAG pipeline
 
 
 
@@ -186,7 +186,7 @@ python <your\_script>.py
 
 
 
-\## Limitations
+Limitations
 
 
 
@@ -200,7 +200,7 @@ python <your\_script>.py
 
 
 
-\## Author
+Author
 
 
 
@@ -210,7 +210,7 @@ MSc Computer Science (Data Analytics), Rajagiri College of Social Sciences (Auto
 
 
 
-\## License
+License
 
 
 
