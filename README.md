@@ -186,10 +186,6 @@ python <your\_script>.py
 
 
 
-`\[Replace with your actual entry-point script and any API key setup.]`
-
-
-
 \## Limitations
 
 
