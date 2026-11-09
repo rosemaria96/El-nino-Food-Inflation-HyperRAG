@@ -1,4 +1,4 @@
-\# Modelling the Economic Impact of El Niño on Food Inflation in India
+\Modelling the Economic Impact of El Niño on Food Inflation in India
 
 
 
@@ -16,7 +16,7 @@ This project asks whether El Niño conditions (measured by the Oceanic Niño Ind
 
 
 
-\## Key Findings
+\ Key Findings
 
 
 
@@ -32,11 +32,11 @@ This project asks whether El Niño conditions (measured by the Oceanic Niño Ind
 
 
 
-\## Data
+\ Data
 
 
 
-\*\*Quantitative (162 monthly observations, July 2012 onwards)\*\*
+Quantitative (162 monthly observations, July 2012 onwards)\*\*
 
 
 
@@ -56,15 +56,15 @@ This project asks whether El Niño conditions (measured by the Oceanic Niño Ind
 
 
 
-\*\*Qualitative:\*\* 29 annual reports (14 IMD, 15 RBI), 2011–2023.
+Qualitative: 29 annual reports (14 IMD, 15 RBI), 2011–2023.
 
 
 
-\## Methodology
+Methodology
 
 
 
-\### Econometric pipeline (R)
+Econometric pipeline (R)
 
 
 
@@ -86,7 +86,7 @@ This project asks whether El Niño conditions (measured by the Oceanic Niño Ind
 
 
 
-\### HyperRAG pipeline (Python)
+HyperRAG pipeline (Python)
 
 
 
@@ -114,7 +114,7 @@ An LLM generates a grounded answer that cites only the retrieved passages.
 
 
 
-\## Repository Structure
+Repository Structure
 
 
 
