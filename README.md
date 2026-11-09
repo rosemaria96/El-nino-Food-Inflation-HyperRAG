@@ -113,81 +113,14 @@ HyperRAG pipeline (Python)
 An LLM generates a grounded answer that cites only the retrieved passages.
 
 
-
-Repository Structure
-
-
-
-> Adjust this to match your actual files.
-
-
-
-```
-
-.
-
-├── dataset/
-
-│   └── Dataset.xlsx          # monthly quantitative data
-
-├── r/
-
-│   └── analysis.R            # econometric analysis
-
-├── hyperrag/
-
-│   └── ...                   # Python retrieval pipeline
-
-├── figures/
-
-└── README.md
-
-```
-
-
-
 Requirements
 
-
-
 R (4.x): `readxl`, `ggplot2`, `corrplot`, `tidyverse`, `tseries`, `car`, `lmtest`, `sandwich`, `Metrics`
-
-
 
 Python:sentence-embedding model, FAISS, an LLM API for answer generation `\[list exact packages from your requirements file]`
 
 
-
-\How to Run
-
-
-
-Econometric analysis
-
-
-
-1\. Place `Dataset.xlsx` in the `dataset/` folder and update the file path at the top of the R script.
-
-2\. Run the script in R or RStudio. It prints the correlation tests, ADF results, model summaries and diagnostics, and produces the plots.
-
-
-
-HyperRAG pipeline
-
-
-
-```bash
-
-pip install -r requirements.txt
-
-python <your\_script>.py
-
-```
-
-
-
 Limitations
-
 
 
 \- The models mix variables of different integration orders. A cointegration test and an ARDL or error-correction model are the natural next step.
