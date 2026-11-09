@@ -10,9 +10,9 @@ This project asks whether El Niño conditions (measured by the Oceanic Niño Ind
 
 
 
-1\. \*\*Quantitative analysis (R):\*\* stationarity testing, correlation and lag analysis, and incremental OLS regressions on differenced series.
+1\. Quantitative analysis (R): stationarity testing, correlation and lag analysis, and incremental OLS regressions on differenced series.
 
-2\. \*\*Qualitative evidence retrieval (Python):\*\* a hypergraph-based retrieval-augmented generation (HyperRAG) pipeline over RBI and IMD annual reports, used to interpret the econometric result.
+2\. Qualitative evidence retrieval (Python): a hypergraph-based retrieval-augmented generation (HyperRAG) pipeline over RBI and IMD annual reports, used to interpret the econometric result.
 
 
 
